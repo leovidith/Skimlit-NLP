@@ -1,7 +1,3 @@
-Certainly! Here is the updated README with a comprehensive table including accuracy, precision, recall, and F1 scores for each model:
-
----
-
 # Skimlit: Medical Abstract Classification
 
 ## Overview
